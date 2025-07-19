@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Technical - Software Engineering",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "Explain the difference between SQL and NoSQL databases. When would you choose one over the other?",
+        "follow_up": "Can you give me a specific example from your experience where you chose one type and why?"
+      },
+      {
+        "question": "How do you handle error handling and logging in your applications?",
+        "follow_up": "What specific logging frameworks or tools have you used?"
+      },
+      {
+        "question": "Describe your experience with API design. What makes a good RESTful API?",
+        "follow_up": "How do you handle API versioning and backward compatibility?"
+      },
+      {
+        "question": "Explain how you would optimize a slow-performing database query.",
+        "follow_up": "What tools do you use to monitor and debug database performance?"
+      },
+      {
+        "question": "How do you ensure code quality in your development process?",
+        "follow_up": "What testing strategies do you implement?"
+      },
+      {
+        "question": "Describe your experience with microservices architecture.",
+        "follow_up": "What challenges have you faced when implementing microservices?"
+      }
+    ]
+  },
+  {
+    "category": "Technical - Data Science",
+    "difficulty": "Medium",
+    "questions": [
+      {
+        "question": "Explain the bias-variance tradeoff in machine learning.",
+        "follow_up": "How do you detect and handle overfitting in your models?"
+      },
+      {
+        "question": "How do you handle missing data in your datasets?",
+        "follow_up": "What's your experience with different imputation techniques?"
+      },
+      {
+        "question": "Describe your approach to feature engineering.",
+        "follow_up": "Can you give an example of a creative feature you've engineered that improved model performance?"
+      },
+      {
+        "question": "How do you evaluate the performance of a classification model?",
+        "follow_up": "When would you use precision vs recall as your primary metric?"
+      },
+      {
+        "question": "Explain the difference between supervised and unsupervised learning.",
+        "follow_up": "Can you describe a project where you used unsupervised learning?"
+      },
+      {
+        "question": "How do you ensure your machine learning models are production-ready?",
+        "follow_up": "What monitoring strategies do you implement for deployed models?"
+      }
+    ]
+  },
+  {
+    "category": "Behavioral",
+    "difficulty": "General",
+    "questions": [
+      {
+        "question": "Tell me about a challenging project you worked on. What made it challenging and how did you overcome the obstacles?",
+        "follow_up": "What would you do differently if you had to do it again?"
+      },
+      {
+        "question": "Describe a time when you had to work with a difficult team member. How did you handle the situation?",
+        "follow_up": "What did you learn from that experience about team dynamics?"
+      },
+      {
+        "question": "Tell me about a time when you had to learn a new technology quickly for a project.",
+        "follow_up": "How do you typically approach learning new technologies or frameworks?"
+      },
+      {
+        "question": "Describe a situation where you had to make a decision with incomplete information.",
+        "follow_up": "How do you typically handle uncertainty in your work?"
+      },
+      {
+        "question": "Tell me about a time when you disagreed with your manager or team lead about a technical decision.",
+        "follow_up": "How do you handle technical disagreements in general?"
+      },
+      {
+        "question": "Describe a time when you had to mentor or help a junior colleague.",
+        "follow_up": "What strategies do you use to effectively share knowledge?"
+      }
+    ]
+  },
+  {
+    "category": "Project Deep Dive",
+    "difficulty": "General",
+    "questions": [
+      {
+        "question": "Walk me through your most challenging project from start to finish.",
+        "follow_up": "What technologies did you choose and what influenced those decisions?"
+      },
+      {
+        "question": "How did you handle testing in this project?",
+        "follow_up": "What was your test coverage strategy and how did you measure quality?"
+      },
+      {
+        "question": "What was the most difficult technical decision you had to make in this project?",
+        "follow_up": "How did you evaluate the alternatives before making the decision?"
+      },
+      {
+        "question": "How did you ensure the scalability and performance of your solution?",
+        "follow_up": "What specific metrics did you use to monitor performance?"
+      },
+      {
+        "question": "Describe how you collaborated with other team members on this project.",
+        "follow_up": "What tools or processes did you use for collaboration?"
+      },
+      {
+        "question": "What was the biggest lesson you learned from this project?",
+        "follow_up": "How has this experience influenced your approach to new projects?"
+      }
+    ]
+  }
+]

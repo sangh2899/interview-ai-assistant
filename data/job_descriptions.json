@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": "InnovateTech Corp",
+    "department": "Engineering",
+    "level": "Senior",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "5+ years of software development experience",
+      "Strong proficiency in Python and JavaScript",
+      "Experience with cloud platforms (AWS, Azure, or GCP)",
+      "Knowledge of microservices architecture",
+      "Experience with database design and optimization",
+      "Strong problem-solving and communication skills"
+    ],
+    "responsibilities": [
+      "Design and develop scalable web applications",
+      "Lead technical discussions and code reviews",
+      "Mentor junior developers",
+      "Collaborate with product managers and designers",
+      "Implement best practices for code quality and testing",
+      "Optimize application performance and scalability",
+      "Participate in system architecture decisions"
+    ],
+    "skills_required": [
+      "Python",
+      "JavaScript",
+      "React",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "Git",
+      "REST APIs"
+    ],
+    "experience_years": "5-8 years"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "AI Innovations Ltd",
+    "department": "Data Science",
+    "level": "Mid-Senior",
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or related field",
+      "3+ years of experience in data science and machine learning",
+      "Strong programming skills in Python and R",
+      "Experience with deep learning frameworks",
+      "Knowledge of statistical modeling and analysis",
+      "Experience with big data technologies",
+      "Strong analytical and problem-solving skills"
+    ],
+    "responsibilities": [
+      "Develop machine learning models for business problems",
+      "Analyze large datasets to extract insights",
+      "Create data visualizations and reports",
+      "Collaborate with engineering teams on model deployment",
+      "Stay current with latest ML/AI research and techniques",
+      "Design and conduct A/B tests",
+      "Communicate findings to stakeholders"
+    ],
+    "skills_required": [
+      "Python",
+      "R",
+      "TensorFlow",
+      "PyTorch",
+      "SQL",
+      "Tableau",
+      "Apache Spark",
+      "AWS",
+      "Statistics"
+    ],
+    "experience_years": "3-6 years"
+  },
+  {
+    "title": "Full-stack Developer",
+    "company": "StartupHub Inc",
+    "department": "Product Development",
+    "level": "Mid-level",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of full-stack development experience",
+      "Proficiency in JavaScript/TypeScript and modern frameworks",
+      "Experience with both SQL and NoSQL databases",
+      "Knowledge of RESTful API design",
+      "Experience with cloud deployment",
+      "Understanding of agile development methodologies"
+    ],
+    "responsibilities": [
+      "Develop end-to-end web applications",
+      "Build responsive user interfaces",
+      "Design and implement RESTful APIs",
+      "Optimize application performance",
+      "Write comprehensive tests",
+      "Collaborate with cross-functional teams",
+      "Participate in code reviews and technical discussions"
+    ],
+    "skills_required": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "AWS",
+      "GraphQL"
+    ],
+    "experience_years": "3-5 years"
+  }
+]

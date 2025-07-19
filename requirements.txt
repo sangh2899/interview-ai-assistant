@@ -1,0 +1,26 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-cartesia
+livekit-plugins-deepgram
+livekit-plugins-silero
+# optional, only when using LiveKit's turn detection model
+livekit-plugins-turn-detector
+# optional, only if background voice & noise cancellation is needed
+livekit-plugins-noise-cancellation
+python-dotenv
+
+# Interview Agent Dependencies
+langgraph
+langchain
+langchain-openai
+langchain-community
+chromadb
+tavily-python
+pydantic
+numpy
+pandas
+
+# Database Dependencies
+sqlalchemy
+psycopg2-binary
+alembic

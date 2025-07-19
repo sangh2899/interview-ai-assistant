@@ -1,0 +1,713 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "phone": "+1-555-0123",
+    "summary": "Senior Software Engineer with 5+ years of experience in full-stack development using Python, React, and cloud technologies. Led teams of 5+ developers and delivered scalable solutions for enterprise clients.",
+    "education": {
+      "resumeId": "d965452c-e1e5-435e-a633-e6f24b7aa662",
+      "school": "State University",
+      "degree": "Bachelor of Science in Computer Science",
+      "major": "Computer Science",
+      "start": "2019-09-01",
+      "end": "2023-05-15",
+      "grade": "3.8/4.0",
+      "completeDegree": true,
+      "id": "f4b33177-940b-4c58-adab-bd6308d29f84",
+      "createdOn": "2025-07-19T10:37:42.642049",
+      "createdBy": "system",
+      "modifiedOn": "2025-07-19T10:37:42.642055",
+      "modifiedBy": "system"
+    },
+    "certificates": [
+      {
+        "resumeId": "20f450a2-1a6b-4273-b6bd-8a8e97be7204",
+        "certificate": "AWS Solutions Architect",
+        "certificateAuthority": "Amazon Web Services",
+        "notExpired": true,
+        "issueDate": "2023-05-15T00:00:00",
+        "expirationDate": "2026-05-15T00:00:00",
+        "score": null,
+        "licenseNo": "AWS-SA-001",
+        "certificateUrl": "https://aws.amazon.com/certification/",
+        "foreignLanguage": null,
+        "subject": "Cloud Architecture",
+        "isCTCSponsor": false,
+        "grade": null,
+        "certificateCatalogId": "3618b519-0c4f-49d0-ac3f-138e8299fcec",
+        "providerId": "b2742306-c33c-4f78-8ab6-9a2e5d869f7e",
+        "provider": "Amazon Web Services",
+        "fieldId": "f129b348-ff9a-4d73-a69b-17c4d3378334",
+        "field": "Cloud Computing",
+        "subFieldId": "683d71a4-fbc9-4453-ab88-426507089aa4",
+        "subField": "Solutions Architecture",
+        "levelId": "4858fc0b-c983-481e-9ce1-b779cc5db6c7",
+        "level": "Professional",
+        "status": 0,
+        "attendance": true,
+        "fileName": "aws-certificate.pdf",
+        "isSynced": false,
+        "isEducation": false,
+        "techType": "Cloud",
+        "rejectReason": null,
+        "isNotHasLicenseNumber": false,
+        "id": "3740ce0c-78b0-4d97-a46e-636e58d9eae6",
+        "createdOn": "2025-07-19T10:37:42.642079",
+        "createdBy": "e1f7db03-2195-4451-a87c-61d926ef9ee9",
+        "modifiedOn": "2025-07-19T10:37:42.642083",
+        "modifiedBy": "2d89a97b-496e-4a21-aa62-fcf382607bca"
+      }
+    ],
+    "languages": [
+      {
+        "resumeId": "2cbe6c3d-249e-4872-8c01-20ecb24c9458",
+        "proficiency": 90,
+        "language": {
+          "name": "English",
+          "id": "a133c953-aba6-4452-b66a-8e9e7dbf5e4c",
+          "createdOn": "2025-07-19T10:37:42.642098",
+          "createdBy": "system",
+          "modifiedOn": "2025-07-19T10:37:42.642099",
+          "modifiedBy": "system"
+        },
+        "id": "7cd6c272-1a8f-4c5f-a963-72b063e1b4d7",
+        "createdOn": "2025-07-19T10:37:42.642104",
+        "createdBy": "system",
+        "modifiedOn": "2025-07-19T10:37:42.642104",
+        "modifiedBy": "system"
+      }
+    ],
+    "domain": [
+      {
+        "name": "Software Development",
+        "year": 2023,
+        "month": 1,
+        "resumeId": "2b79441f-238d-466f-a682-8df65e9dc049",
+        "id": "a6f5c441-2102-4d2a-ab27-bcfcc487a1ad",
+        "createdOn": "2025-07-19T10:37:42.642112",
+        "createdBy": "system",
+        "modifiedOn": "2025-07-19T10:37:42.642113",
+        "modifiedBy": "system"
+      }
+    ],
+    "projects": [
+      {
+        "resumeId": "524586a4-8bec-494a-b2ee-9e3aa4766039",
+        "resumeProjectId": "8454599e-3878-4c08-89d8-8788940f4afd",
+        "projectId": "ea8a751d-750f-4e30-995d-18741ca4066a",
+        "name": "E-commerce Platform",
+        "projectKey": "ECOM-001",
+        "projectCode": "ECOM-001",
+        "projectRank": "1",
+        "projectLead": "John Smith",
+        "projectCategory": "E-commerce",
+        "customerCode": "CUST-001",
+        "contractType": "Fixed Price",
+        "url": "https://ecom.example.com",
+        "company": "TechCorp Inc.",
+        "type": "Web Application",
+        "teamSize": 10,
+        "searchSkill": 100,
+        "technology": [
+          "React",
+          "FastAPI",
+          "PostgreSQL",
+          "Stripe API",
+          "AWS"
+        ],
+        "projectDescription": "Built a full-stack e-commerce platform with 10k+ users using React and Python FastAPI with payment integration",
+        "groupname": "E-commerce",
+        "status": "Completed",
+        "domain": "E-commerce",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "painPoins": "Performance issues with payment gateway",
+        "keyFindings": "Optimized API performance",
+        "workingProcess": "Agile development",
+        "responsibility": "Full-stack development",
+        "technologyByPM": "FastAPI",
+        "descriptionByPM": "Built a robust backend with FastAPI and PostgreSQL",
+        "isUpdateTeam": false,
+        "applyIncompleted": false,
+        "skill": "Full-stack development",
+        "skillCode": "FSD",
+        "seniority": "Senior",
+        "projectRoles": [
+          {
+            "role": "Full-stack Developer",
+            "duration": "3 months"
+          }
+        ],
+        "projectSkills": [
+          {
+            "skill": "React",
+            "level": "Expert"
+          }
+        ],
+        "projectJobs": [
+          {
+            "job": "Full-stack Developer",
+            "duration": "3 months"
+          }
+        ]
+      },
+      {
+        "resumeId": "ab1be263-84bb-4dad-9a9a-20325f1a818c",
+        "resumeProjectId": "c44c86b3-76e5-4d39-b743-51bee8082eb8",
+        "projectId": "5c542888-c10a-4c8f-9fc7-7a0e9c03df0d",
+        "name": "Task Management API",
+        "projectKey": "TASK-001",
+        "projectCode": "TASK-001",
+        "projectRank": "2",
+        "projectLead": "John Smith",
+        "projectCategory": "API Development",
+        "customerCode": "CUST-002",
+        "contractType": "Time and Material",
+        "url": "https://api.example.com",
+        "company": "StartupXYZ",
+        "type": "API",
+        "teamSize": 5,
+        "searchSkill": 80,
+        "technology": [
+          "Python",
+          "FastAPI",
+          "WebSockets",
+          "Redis",
+          "PostgreSQL"
+        ],
+        "projectDescription": "Developed RESTful API for task management with user authentication and real-time updates serving 1000+ concurrent users",
+        "groupname": "API",
+        "status": "Completed",
+        "domain": "API",
+        "startDate": "2023-02-01",
+        "endDate": "2023-03-31",
+        "painPoins": "Scalability issues with WebSockets",
+        "keyFindings": "Implemented efficient caching with Redis",
+        "workingProcess": "Waterfall",
+        "responsibility": "Backend development",
+        "technologyByPM": "FastAPI",
+        "descriptionByPM": "Developed a scalable and efficient API",
+        "isUpdateTeam": false,
+        "applyIncompleted": false,
+        "skill": "Backend development",
+        "skillCode": "BD",
+        "seniority": "Senior",
+        "projectRoles": [
+          {
+            "role": "Backend Developer",
+            "duration": "2 months"
+          }
+        ],
+        "projectSkills": [
+          {
+            "skill": "FastAPI",
+            "level": "Expert"
+          }
+        ],
+        "projectJobs": [
+          {
+            "job": "Backend Developer",
+            "duration": "2 months"
+          }
+        ]
+      }
+    ],
+    "professionalSkills": [
+      {
+        "id": "a506a879-164b-499f-9638-07759734517d",
+        "resumeId": "4cbcac99-1b0c-46af-90fd-0e4008f994f7",
+        "jobTitleName": "Senior Software Engineer",
+        "experienceMonth": 60,
+        "experienceYear": 5,
+        "jobFillByUser": "John Smith",
+        "isMainSkill": true,
+        "projectInfo": [
+          {
+            "projectId": "3d01cd6b-79e8-4f5c-9eb2-9ce0d24c8aab",
+            "duration": "2 months"
+          },
+          {
+            "projectId": "ebec5b5f-9d14-4fed-868e-47baf9b31956",
+            "duration": "3 months"
+          }
+        ]
+      }
+    ],
+    "experience": null,
+    "skills": null
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "+1-555-0124",
+    "summary": "Data Scientist with 4+ years of experience in machine learning, statistical analysis, and data visualization. Built ML models with 95%+ accuracy and reduced business costs by 30%.",
+    "education": {
+      "resumeId": "80bac772-d6a5-4914-b740-2ee3ea7012a0",
+      "school": "Tech University",
+      "degree": "Master of Science in Data Science",
+      "major": "Data Science",
+      "start": "2020-09-01",
+      "end": "2022-05-15",
+      "grade": "3.9/4.0",
+      "completeDegree": true,
+      "id": "d148447b-23e1-4112-8d47-afe2796fe6e8",
+      "createdOn": "2025-07-19T10:37:42.642160",
+      "createdBy": "system",
+      "modifiedOn": "2025-07-19T10:37:42.642161",
+      "modifiedBy": "system"
+    },
+    "certificates": [
+      {
+        "resumeId": "85c6f644-1cc3-4089-b5d0-89bef23c859f",
+        "certificate": "TensorFlow Developer Certificate",
+        "certificateAuthority": "Google",
+        "notExpired": true,
+        "issueDate": "2022-05-15T00:00:00",
+        "expirationDate": "2025-05-15T00:00:00",
+        "score": null,
+        "licenseNo": "TF-DEV-002",
+        "certificateUrl": "https://www.tensorflow.org/certificate",
+        "foreignLanguage": null,
+        "subject": "Machine Learning",
+        "isCTCSponsor": false,
+        "grade": null,
+        "certificateCatalogId": "333931d8-2af9-4e6b-8dba-d7aae788e1c6",
+        "providerId": "0a42359e-dc66-4953-b829-8cedccd9a4c8",
+        "provider": "Google",
+        "fieldId": "2b38b3b5-e6ac-4952-973d-99a9dfb859af",
+        "field": "Machine Learning",
+        "subFieldId": "d9fd295d-0d1c-4e1d-94a5-6d68e4938572",
+        "subField": "Deep Learning",
+        "levelId": "55559a24-9e7b-4189-80ea-d6dd562e7476",
+        "level": "Professional",
+        "status": 0,
+        "attendance": true,
+        "fileName": "tensorflow-certificate.pdf",
+        "isSynced": false,
+        "isEducation": false,
+        "techType": "ML",
+        "rejectReason": null,
+        "isNotHasLicenseNumber": false,
+        "id": "8e936bc9-0026-4193-8f00-fb1cce550fde",
+        "createdOn": "2025-07-19T10:37:42.642180",
+        "createdBy": "93b058a0-2753-4ee8-8758-7f62ec06e9ac",
+        "modifiedOn": "2025-07-19T10:37:42.642183",
+        "modifiedBy": "a4366093-25b9-46c8-8db7-e750409efdf9"
+      }
+    ],
+    "languages": [
+      {
+        "resumeId": "bd1e1dc1-90db-4447-a561-b21b0f404197",
+        "proficiency": 95,
+        "language": {
+          "name": "English",
+          "id": "50d3da6c-4d7b-460e-82d5-6804b45ef170",
+          "createdOn": "2025-07-19T10:37:42.642194",
+          "createdBy": "system",
+          "modifiedOn": "2025-07-19T10:37:42.642195",
+          "modifiedBy": "system"
+        },
+        "id": "669c87a2-1db8-4ac6-896b-5e9bca13eb4e",
+        "createdOn": "2025-07-19T10:37:42.642199",
+        "createdBy": "system",
+        "modifiedOn": "2025-07-19T10:37:42.642199",
+        "modifiedBy": "system"
+      }
+    ],
+    "domain": [
+      {
+        "name": "Data Science",
+        "year": 2023,
+        "month": 1,
+        "resumeId": "726e7572-4947-4ce8-9e6c-b6eb5453f6f6",
+        "id": "cb2a0ff4-e834-46c6-a3ac-a2a6d51d328f",
+        "createdOn": "2025-07-19T10:37:42.642206",
+        "createdBy": "system",
+        "modifiedOn": "2025-07-19T10:37:42.642206",
+        "modifiedBy": "system"
+      }
+    ],
+    "projects": [
+      {
+        "resumeId": "7148ceb7-1627-48c6-a5e6-359d81c09719",
+        "resumeProjectId": "4d1dfee2-0498-4e03-857f-1785f248e6d6",
+        "projectId": "292a4fb4-86e2-4c1f-af78-14f4baaa0732",
+        "name": "Customer Churn Prediction",
+        "projectKey": "ML-001",
+        "projectCode": "ML-001",
+        "projectRank": "1",
+        "projectLead": "Sarah Johnson",
+        "projectCategory": "Machine Learning",
+        "customerCode": "CUST-003",
+        "contractType": "Fixed Price",
+        "url": "https://ml.example.com",
+        "company": "DataTech Solutions",
+        "type": "ML Model",
+        "teamSize": 4,
+        "searchSkill": 90,
+        "technology": [
+          "Python",
+          "Scikit-learn",
+          "XGBoost",
+          "Pandas",
+          "AWS SageMaker"
+        ],
+        "projectDescription": "Built ML model to predict customer churn with 92% accuracy using ensemble methods, saving company $2M annually",
+        "groupname": "ML",
+        "status": "Completed",
+        "domain": "ML",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "painPoins": "Overfitting issues with ensemble methods",
+        "keyFindings": "Optimized model performance",
+        "workingProcess": "Agile",
+        "responsibility": "ML Model Development",
+        "technologyByPM": "Scikit-learn",
+        "descriptionByPM": "Developed a robust ML model for churn prediction",
+        "isUpdateTeam": false,
+        "applyIncompleted": false,
+        "skill": "ML Model Development",
+        "skillCode": "MLD",
+        "seniority": "Senior",
+        "projectRoles": [
+          {
+            "role": "Data Scientist",
+            "duration": "4 months"
+          }
+        ],
+        "projectSkills": [
+          {
+            "skill": "Scikit-learn",
+            "level": "Expert"
+          }
+        ],
+        "projectJobs": [
+          {
+            "job": "Data Scientist",
+            "duration": "4 months"
+          }
+        ]
+      },
+      {
+        "resumeId": "7b93c838-2e79-485c-b8e6-57ae99a460a5",
+        "resumeProjectId": "e2af2ff4-ca80-4ff5-9f09-54cfa4aa5b06",
+        "projectId": "91c72daa-5caa-4556-88f5-a7b468fe9fea",
+        "name": "Real-time Fraud Detection",
+        "projectKey": "ML-002",
+        "projectCode": "ML-002",
+        "projectRank": "2",
+        "projectLead": "Sarah Johnson",
+        "projectCategory": "Machine Learning",
+        "customerCode": "CUST-004",
+        "contractType": "Time and Material",
+        "url": "https://fraud.example.com",
+        "company": "DataTech Solutions",
+        "type": "ML Model",
+        "teamSize": 6,
+        "searchSkill": 95,
+        "technology": [
+          "Python",
+          "Apache Kafka",
+          "TensorFlow",
+          "Redis",
+          "Kubernetes"
+        ],
+        "projectDescription": "Implemented real-time fraud detection system using streaming data and anomaly detection, reducing fraud by 45%",
+        "groupname": "ML",
+        "status": "Completed",
+        "domain": "ML",
+        "startDate": "2023-02-01",
+        "endDate": "2023-03-31",
+        "painPoins": "Scalability issues with Kafka",
+        "keyFindings": "Optimized anomaly detection",
+        "workingProcess": "Waterfall",
+        "responsibility": "ML Model Development",
+        "technologyByPM": "TensorFlow",
+        "descriptionByPM": "Developed a scalable fraud detection system",
+        "isUpdateTeam": false,
+        "applyIncompleted": false,
+        "skill": "ML Model Development",
+        "skillCode": "MLD",
+        "seniority": "Senior",
+        "projectRoles": [
+          {
+            "role": "Data Scientist",
+            "duration": "6 months"
+          }
+        ],
+        "projectSkills": [
+          {
+            "skill": "TensorFlow",
+            "level": "Expert"
+          }
+        ],
+        "projectJobs": [
+          {
+            "job": "Data Scientist",
+            "duration": "6 months"
+          }
+        ]
+      }
+    ],
+    "professionalSkills": [
+      {
+        "id": "687ae323-8371-400f-a50f-f0ba13358dd4",
+        "resumeId": "6b9889db-de04-48fb-883c-86445cb1ffc9",
+        "jobTitleName": "Senior Data Scientist",
+        "experienceMonth": 48,
+        "experienceYear": 4,
+        "jobFillByUser": "Sarah Johnson",
+        "isMainSkill": true,
+        "projectInfo": [
+          {
+            "projectId": "8fb2b87f-0373-4fa3-9f3c-b49a0b77b77e",
+            "duration": "2 months"
+          },
+          {
+            "projectId": "a0aefb08-14be-4dc9-98f6-39359e861146",
+            "duration": "2 months"
+          }
+        ]
+      }
+    ],
+    "experience": null,
+    "skills": null
+  },
+  {
+    "name": "Alex Chen",
+    "email": "alex.chen@email.com",
+    "phone": "+1-555-0125",
+    "summary": "Full-stack Developer with 3+ years of experience in modern web technologies. Specialized in React, Node.js, and cloud infrastructure with focus on performance optimization.",
+    "education": {
+      "resumeId": "0dbb8d53-02f9-4bdd-a57a-b3843c982026",
+      "school": "Tech Institute",
+      "degree": "Bachelor of Science in Software Engineering",
+      "major": "Software Engineering",
+      "start": "2021-09-01",
+      "end": "2023-05-15",
+      "grade": "3.6/4.0",
+      "completeDegree": true,
+      "id": "fca78730-cdb7-4a49-9c7b-fe1aeacc8911",
+      "createdOn": "2025-07-19T10:37:42.642243",
+      "createdBy": "system",
+      "modifiedOn": "2025-07-19T10:37:42.642244",
+      "modifiedBy": "system"
+    },
+    "certificates": [
+      {
+        "resumeId": "982a6411-e0d8-4b35-ab30-a770a47d1222",
+        "certificate": "React Developer Certification",
+        "certificateAuthority": "Meta",
+        "notExpired": true,
+        "issueDate": "2023-05-15T00:00:00",
+        "expirationDate": "2026-05-15T00:00:00",
+        "score": null,
+        "licenseNo": "REACT-DEV-003",
+        "certificateUrl": "https://www.coursera.org/professional-certificates/meta-react-native",
+        "foreignLanguage": null,
+        "subject": "Frontend Development",
+        "isCTCSponsor": false,
+        "grade": null,
+        "certificateCatalogId": "480bc608-6cc0-4a43-95ad-9fb8766c2a58",
+        "providerId": "a3da7773-3c39-4a52-9fb0-151f67d4c314",
+        "provider": "Meta",
+        "fieldId": "5c9a4296-28fa-4407-a79f-022221fcc876",
+        "field": "Web Development",
+        "subFieldId": "a9724b8f-788e-4b75-864a-bb82e66beea2",
+        "subField": "Frontend Development",
+        "levelId": "c60149ae-0586-40b1-a4c3-541ef932d75d",
+        "level": "Professional",
+        "status": 0,
+        "attendance": true,
+        "fileName": "react-certificate.pdf",
+        "isSynced": false,
+        "isEducation": false,
+        "techType": "Web",
+        "rejectReason": null,
+        "isNotHasLicenseNumber": false,
+        "id": "e6cfc1a4-df3c-40d8-807a-eb91c26efaa4",
+        "createdOn": "2025-07-19T10:37:42.642263",
+        "createdBy": "27e5bc34-088c-457e-b88c-8ed16f819bbe",
+        "modifiedOn": "2025-07-19T10:37:42.642266",
+        "modifiedBy": "f9a93872-266a-4a82-b354-136c8c700a54"
+      }
+    ],
+    "languages": [
+      {
+        "resumeId": "41e6353d-e396-4295-add8-61c4f8da3689",
+        "proficiency": 98,
+        "language": {
+          "name": "English",
+          "id": "9e4399a8-fb24-4fab-b737-68d04019647d",
+          "createdOn": "2025-07-19T10:37:42.642275",
+          "createdBy": "system",
+          "modifiedOn": "2025-07-19T10:37:42.642276",
+          "modifiedBy": "system"
+        },
+        "id": "46e2c386-665f-4ee5-a2db-0c9c6cc12dea",
+        "createdOn": "2025-07-19T10:37:42.642279",
+        "createdBy": "system",
+        "modifiedOn": "2025-07-19T10:37:42.642280",
+        "modifiedBy": "system"
+      }
+    ],
+    "domain": [
+      {
+        "name": "Full-stack Development",
+        "year": 2023,
+        "month": 1,
+        "resumeId": "6d9e65ac-ed8d-4906-baef-c29d1764f2a5",
+        "id": "6fcf4b82-d6ef-43f9-a073-ff5dd7c439dc",
+        "createdOn": "2025-07-19T10:37:42.642286",
+        "createdBy": "system",
+        "modifiedOn": "2025-07-19T10:37:42.642286",
+        "modifiedBy": "system"
+      }
+    ],
+    "projects": [
+      {
+        "resumeId": "7b57bd66-34b0-477c-b3f2-45a3868d6628",
+        "resumeProjectId": "044a905c-9560-4113-b705-e83e25b00f76",
+        "projectId": "ee19417c-daa2-4209-8b7f-409cbc697b8f",
+        "name": "Social Media Dashboard",
+        "projectKey": "WEB-001",
+        "projectCode": "WEB-001",
+        "projectRank": "1",
+        "projectLead": "Alex Chen",
+        "projectCategory": "Web Development",
+        "customerCode": "CUST-005",
+        "contractType": "Fixed Price",
+        "url": "https://dashboard.example.com",
+        "company": "WebTech Solutions",
+        "type": "Web Application",
+        "teamSize": 5,
+        "searchSkill": 100,
+        "technology": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "Chart.js",
+          "AWS"
+        ],
+        "projectDescription": "Built comprehensive social media analytics dashboard with real-time data visualization for 500+ users",
+        "groupname": "Web",
+        "status": "Completed",
+        "domain": "Web",
+        "startDate": "2023-01-01",
+        "endDate": "2023-05-15",
+        "painPoins": "Performance issues with Chart.js",
+        "keyFindings": "Optimized data fetching",
+        "workingProcess": "Agile",
+        "responsibility": "Full-stack development",
+        "technologyByPM": "React",
+        "descriptionByPM": "Built a responsive and performant dashboard",
+        "isUpdateTeam": false,
+        "applyIncompleted": false,
+        "skill": "Full-stack development",
+        "skillCode": "FSD",
+        "seniority": "Senior",
+        "projectRoles": [
+          {
+            "role": "Full-stack Developer",
+            "duration": "5 months"
+          }
+        ],
+        "projectSkills": [
+          {
+            "skill": "React",
+            "level": "Expert"
+          }
+        ],
+        "projectJobs": [
+          {
+            "job": "Full-stack Developer",
+            "duration": "5 months"
+          }
+        ]
+      },
+      {
+        "resumeId": "ffeafc05-8c65-4b5d-96a8-079f47d1456f",
+        "resumeProjectId": "5f8799c0-94d3-41e3-862b-d926083abb97",
+        "projectId": "08d1cf25-41d1-42c9-b097-23525829431c",
+        "name": "E-learning Platform",
+        "projectKey": "WEB-002",
+        "projectCode": "WEB-002",
+        "projectRank": "2",
+        "projectLead": "Alex Chen",
+        "projectCategory": "Web Development",
+        "customerCode": "CUST-006",
+        "contractType": "Time and Material",
+        "url": "https://learn.example.com",
+        "company": "DesignCorp",
+        "type": "Web Application",
+        "teamSize": 8,
+        "searchSkill": 100,
+        "technology": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Socket.io"
+        ],
+        "projectDescription": "Developed online learning platform with video streaming and interactive features serving 2000+ students",
+        "groupname": "Web",
+        "status": "Completed",
+        "domain": "Web",
+        "startDate": "2023-02-01",
+        "endDate": "2023-05-15",
+        "painPoins": "Scalability issues with Socket.io",
+        "keyFindings": "Optimized video streaming",
+        "workingProcess": "Waterfall",
+        "responsibility": "Full-stack development",
+        "technologyByPM": "React",
+        "descriptionByPM": "Developed a scalable and interactive learning platform",
+        "isUpdateTeam": false,
+        "applyIncompleted": false,
+        "skill": "Full-stack development",
+        "skillCode": "FSD",
+        "seniority": "Senior",
+        "projectRoles": [
+          {
+            "role": "Full-stack Developer",
+            "duration": "8 months"
+          }
+        ],
+        "projectSkills": [
+          {
+            "skill": "React",
+            "level": "Expert"
+          }
+        ],
+        "projectJobs": [
+          {
+            "job": "Full-stack Developer",
+            "duration": "8 months"
+          }
+        ]
+      }
+    ],
+    "professionalSkills": [
+      {
+        "id": "16636141-73c2-41cb-96e4-df33c3b6da85",
+        "resumeId": "8eefe40a-a4eb-44aa-acc7-5eed2a8a223e",
+        "jobTitleName": "Full-stack Developer",
+        "experienceMonth": 36,
+        "experienceYear": 3,
+        "jobFillByUser": "Alex Chen",
+        "isMainSkill": true,
+        "projectInfo": [
+          {
+            "projectId": "e0adec19-a2b6-4b24-9fbb-4054d8f17eec",
+            "duration": "5 months"
+          },
+          {
+            "projectId": "d690121e-f45e-495e-a816-c50b6525d97e",
+            "duration": "8 months"
+          }
+        ]
+      }
+    ],
+    "experience": null,
+    "skills": null
+  }
+]
